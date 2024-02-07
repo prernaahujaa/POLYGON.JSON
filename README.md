@@ -1,76 +1,53 @@
-To find all the URLs and details for Polygon (MATIC) from CoinMarketCap.
-1. CoinMarketCap Page:
-   - [Polygon (MATIC) on CoinMarketCap](https://coinmarketcap.com/currencies/polygon/)
+To extract all the URLs related to Polygon (MATIC) from the provided CoinMarketCap page:
 
-2. Official Links:
-   - Website: [Polygon Official Website](https://polygon.technology/)
-   - Whitepaper: [Polygon Whitepaper](https://polygon.technology/whitepaper)
-   - Documentation: [Polygon Documentation](https://docs.polygon.technology/)
-   - Forum: [Polygon Forum](https://forum.matic.network/)
-   - GitHub: [Polygon GitHub](https://github.com/maticnetwork)
+1. Official Website: [Polygon Official Website](https://polygon.technology/)
+2. Whitepaper: [Polygon Whitepaper](https://polygon.technology/whitepaper)
+3. Documentation: [Polygon Documentation](https://docs.polygon.technology/)
+4. Forum: [Polygon Forum](https://forum.matic.network/)
+5. GitHub: [Polygon GitHub](https://github.com/maticnetwork)
+6. Discord: [Polygon Discord](https://discord.gg/6qDyMsj)
+7. Twitter: [Polygon Twitter](https://twitter.com/0xPolygon)
+8. Reddit: [Polygon Reddit](https://www.reddit.com/r/maticnetwork/)
+9. Community: [Polygon Community](https://polygon.technology/community/)
+10. CoinMarketCap Community: [Polygon CoinMarketCap Community](https://coinmarketcap.com/currencies/polygon/community/)
+11. Twitter Hashtag: [Polygon Twitter Hashtag](https://twitter.com/hashtag/polygon)
+12. CoinGecko: [Polygon on CoinGecko](https://www.coingecko.com/en/coins/polygon)
+13. DefiLlama: [Polygon on DefiLlama](https://defillama.com/chain/Polygon)
+14. DappRadar: [Polygon on DappRadar](https://dappradar.com/chain/polygon)
+15. CryptoCompare: [Polygon on CryptoCompare](https://www.cryptocompare.com/coins/matic/overview)
+16. TradingView: [Polygon on TradingView](https://www.tradingview.com/symbols/MATICUSD/)
+17. CoinDesk: [Polygon on CoinDesk](https://www.coindesk.com/price/polygon)
+18. Investing: [Polygon on Investing.com](https://www.investing.com/crypto/polygon/matic-usd)
+19. MarketWatch: [Polygon on MarketWatch](https://www.marketwatch.com/investing/cryptocurrency/maticusd)
+20. Yahoo Finance: [Polygon on Yahoo Finance](https://finance.yahoo.com/quote/MATIC-USD)
+21. PolygonScan: [PolygonScan Explorer](https://polygonscan.com/)
+22. Blockchair: [Polygon on Blockchair](https://blockchair.com/polygon)
+23. Parsec: [Parsec Explorer](https://parsec.xyz/)
+24. Ethplorer: [Ethplorer Explorer](https://ethplorer.io/)
+25. TokenView: [TokenView Explorer](https://polygonscan.com/)
+26. Ankr: [Ankr Bridge](https://app.ankr.com/bridge)
+27. Hop Protocol: [Hop Protocol Bridge](https://hop.exchange/)
+28. Connext: [Connext Bridge](https://connext.network/)
+29. Polygon Bug Bounty Program: [Polygon Bug Bounty Program](https://polygon.technology/security/bug-bounty)
+30. Polygon Grants: [Polygon Grants](https://polygon.technology/grants/)
+31. Matic Network Faucet: [Matic Network Faucet](https://faucet.matic.network/)
+32. QuickNode: [QuickNode Faucet](https://faucet.quicknode.com/polygon)
+33. All That Node: [All That Node Faucet](https://www.allthatnode.com/faucet/matic.matic)
+34. Holesky PoW Faucet: [Holesky Faucet](https://matic.supply/faucet)
+35. MaticVigil: [MaticVigil RPC](https://maticvigil.com/)
+36. Wallet Finder: [Wallet Finder](https://wallet.polygon.technology/)
+37. Metamask: [Metamask Wallet](https://metamask.io/)
+38. MyEtherWallet: [MyEtherWallet](https://www.myetherwallet.com/)
+39. Trust Wallet: [Trust Wallet](https://trustwallet.com/)
+40. Coinbase Wallet: [Coinbase Wallet](https://wallet.coinbase.com/)
+41. TokenPocket: [TokenPocket Wallet](https://www.tokenpocket.pro/)
+42. Math Wallet: [Math Wallet](https://mathwallet.org/)
+43. Fortmatic: [Fortmatic Wallet](https://fortmatic.com/)
+44. Chainlink: [Chainlink Oracle](https://chain.link/)
+45. Band Protocol: [Band Protocol Oracle](https://bandprotocol.com/)
+46. Tellor: [Tellor Oracle](https://tellor.io/)
+47. API3: [API3 Oracle](https://api3.org/)
+48. Razor Network: [Razor Network Oracle](https://razor.network/)
+49. DIA: [DIA Oracle](https://diadata.org/)
 
-3. Social Platforms:
-   - Discord: [Polygon Discord](https://discord.gg/6qDyMsj)
-   - Twitter: [Polygon Twitter](https://twitter.com/0xPolygon)
-   - Reddit: [Polygon Reddit](https://www.reddit.com/r/maticnetwork/)
-   - Community: [Polygon Community](https://polygon.technology/community/)
-   - CoinMarketCap Community: [Polygon CoinMarketCap Community](https://coinmarketcap.com/currencies/polygon/community/)
-   - Twitter Hashtag: [Polygon Twitter Hashtag](https://twitter.com/hashtag/polygon)
-
-4. Data Aggregator:
-   - CoinGecko: [Polygon on CoinGecko](https://www.coingecko.com/en/coins/polygon)
-   - DefiLlama: [Polygon on DefiLlama](https://defillama.com/chain/Polygon)
-   - DappRadar: [Polygon on DappRadar](https://dappradar.com/chain/polygon)
-   - CryptoCompare: [Polygon on CryptoCompare](https://www.cryptocompare.com/coins/matic/overview)
-   - TradingView: [Polygon on TradingView](https://www.tradingview.com/symbols/MATICUSD/)
-   - CoinDesk: [Polygon on CoinDesk](https://www.coindesk.com/price/polygon)
-   - Investing: [Polygon on Investing.com](https://www.investing.com/crypto/polygon/matic-usd)
-   - MarketWatch: [Polygon on MarketWatch](https://www.marketwatch.com/investing/cryptocurrency/maticusd)
-   - Yahoo Finance: [Polygon on Yahoo Finance](https://finance.yahoo.com/quote/MATIC-USD)
-
-5. Explorers:
-   - PolygonScan: [PolygonScan Explorer](https://polygonscan.com/)
-   - Blockchair: [Polygon on Blockchair](https://blockchair.com/polygon)
-   - Parsec: [Parsec Explorer](https://parsec.xyz/)
-   - Ethplorer: [Ethplorer Explorer](https://ethplorer.io/)
-   - TokenView: [TokenView Explorer](https://polygonscan.com/)
-
-6. Bridges:
-   - Ankr: [Ankr Bridge](https://app.ankr.com/bridge)
-   - Hop Protocol: [Hop Protocol Bridge](https://hop.exchange/)
-   - Connext: [Connext Bridge](https://connext.network/)
-
-7. Bounty:
-   - Bug Bounty Program: [Polygon Bug Bounty Program](https://polygon.technology/security/bug-bounty)
-
-8. Grants:
-   - Polygon Grants: [Polygon Grants](https://polygon.technology/grants/)
-
-9. Faucets:
-   - Matic Network Faucet: [Matic Network Faucet](https://faucet.matic.network/)
-   - QuickNode: [QuickNode Faucet](https://faucet.quicknode.com/polygon)
-   - All That Node: [All That Node Faucet](https://www.allthatnode.com/faucet/matic.matic)
-   - Holesky PoW Faucet: [Holesky Faucet](https://matic.supply/faucet)
-
-10. RPCs:
-    - MaticVigil: [MaticVigil RPC](https://maticvigil.com/)
-
-11. Wallets:
-    - Wallet Finder: [Wallet Finder](https://wallet.polygon.technology/)
-    - Metamask: [Metamask Wallet](https://metamask.io/)
-    - MyEtherWallet: [MyEtherWallet](https://www.myetherwallet.com/)
-    - Trust Wallet: [Trust Wallet](https://trustwallet.com/)
-    - Coinbase Wallet: [Coinbase Wallet](https://wallet.coinbase.com/)
-    - TokenPocket: [TokenPocket Wallet](https://www.tokenpocket.pro/)
-    - Math Wallet: [Math Wallet](https://mathwallet.org/)
-    - Fortmatic: [Fortmatic Wallet](https://fortmatic.com/)
-
-12. Oracles:
-    - Chainlink: [Chainlink Oracle](https://chain.link/)
-    - Band Protocol: [Band Protocol Oracle](https://bandprotocol.com/)
-    - Tellor: [Tellor Oracle](https://tellor.io/)
-    - API3: [API3 Oracle](https://api3.org/)
-    - Razor Network: [Razor Network Oracle](https://razor.network/)
-    - DIA: [DIA Oracle](https://diadata.org/)
-
-These are the URLs and details for Polygon.
+These are the URLs associated with Polygon (MATIC) extracted from the CoinMarketCap page you provided.
